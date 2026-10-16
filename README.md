@@ -47,10 +47,3 @@ Some of the languages used include:
 - Turtle
 
 Tkinter and Turtle are normally included with standard Python installations.
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/alanrybakov/Love-Heart-Animation.git
